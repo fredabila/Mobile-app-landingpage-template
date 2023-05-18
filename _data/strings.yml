@@ -6,11 +6,5 @@ app:
 footer:
   copyright: Made by Buzz Chat
   links:
-    - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
-      target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
-      target: _blank
     - title: Privacy
       url: /privacy
