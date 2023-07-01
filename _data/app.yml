@@ -5,8 +5,8 @@ full_description: 'Buzz Chat is the newest social networking platform<br>
 <br>- AI Content moderation
 <br>- Chatbots Integration
 <br>- AI Content Generator'
-android: https://expo.dev/artifacts/eas/dYkiPdbvxamM6LwefxtKS7.apk
-iOS: https://apps.apple.com/us/app/buzz-chat-lite/id6443969331
+android: https://expo.dev/artifacts/eas/sFtmik5LbMUJDGo6GJt1yR.apk
+iOS: https://testflight.apple.com/join/60gvTKJs
 web: https://buzzchat.site
 screenshots:
   - 1.png
